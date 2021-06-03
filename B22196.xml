@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments resolution concerning the Kings proclamation for setting up his standard resolved on by the House of Commons and by them sent up to the House of Peeres Aug 18, 1642 : where after some time spent in debate thereof, they gave their assents thereto, and ordered that it should be published to the subjects of England : with the apprehending of the Lord Wentworth neere Portsmouth : likewise exceeding joyfull newes from Berkshire declaring a famous victory obtained by Colonell Hambden against the Earle of Berkeshire and the Lord Lovelace August 18, who after some fight took the said Lords prisoners.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22196</idno><idno type="EEBO-CITATION">12229296</idno>
+  <idno type="VID">197520</idno>
+  <idno type="EEBO-PROQUEST">2240951314</idno>
+  
+            <idno type="STC">Wing E2146</idno>
+            <idno type="STC">Thomason v.I, pt.I, p. 155</idno>
+            <idno type="OCLC">12229296</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22196)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197520)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E113, no 5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments resolution concerning the Kings proclamation for setting up his standard resolved on by the House of Commons and by them sent up to the House of Peeres Aug 18, 1642 : where after some time spent in debate thereof, they gave their assents thereto, and ordered that it should be published to the subjects of England : with the apprehending of the Lord Wentworth neere Portsmouth : likewise exceeding joyfull newes from Berkshire declaring a famous victory obtained by Colonell Hambden against the Earle of Berkeshire and the Lord Lovelace August 18, who after some fight took the said Lords prisoners.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for J. Horton,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>August 22, [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A news pamphlet, containing no official text.</note>
+                  <note>Date of publication from Thomason Coll.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Berkshire, Thomas Howard, --  Earl of, ca. 1590-1669.</term>
+               <term type="personal_name">Hampden, John, 1594-1643.</term>
+               <term type="personal_name">Lovelace, John Lovelace, --  Baron, 1616-1670.</term>
+               <term type="personal_name">Wentworth, Thomas Wentworth, --  Baron, 1613-1665.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197520:1"/>
+            <div type="part">
+               <p>THE Parliaments Resolution, Concerning the KINGS PROCLAMATION For setting up His Standard.</p>
+               <p>Resolved on by the House of Com<g ref="char:EOLhyphen"/>mons, and by them sent up to the House of Peeres, <hi>Aug.</hi> 18. 1642.</p>
+               <p>Where after some time spent in debate thereof, they gave their assents thereto, and Ordered that it should be published to the Subjects of <hi>England.</hi>
+               </p>
+               <closer>
+                  <signed>Jo. Browne Cler. Parl.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>WITH The apprehending of the Lord <hi>Wentworth</hi> neere <hi>Portsmouth.</hi>
+               </p>
+               <p>LIKEWISE Exceeding joyfull Newes from <hi>Berkshire,</hi> declaring a Fa<g ref="char:EOLhyphen"/>mous Victory obtained by Colonell <hi>Hambden</hi> against the Earle of <hi>Berkeshire</hi> and the Lord <hi>Lovelace, August</hi> 18. who after some Fight, took the said Lords prisoners.</p>
+               <p>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>Ordered that this be printed and published,</p>
+                           <closer>
+                              <signed>Hen. Elsing, Cler. Parl. D. Com.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </p>
+               <p>
+                  <hi>August</hi> 22. Printed for <hi>J. Horton.</hi>
+               </p>
+            </div>
+            <pb facs="tcp:197520:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:197520:2"/>
+            <head>EXCEEDING Joyfull News from both the Honourable Houses of PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Tuesday last there was a joyfull Mes<g ref="char:EOLhyphen"/>sage delivered to the House of Commons it being filled with extraordinary hap<g ref="char:EOLhyphen"/>py tydings, which consisted of these particulars following, <hi>(viz.)</hi>
+            </p>
+            <p>That information was given unto the Commons House of Parliament, of the
+<pb n="2" facs="tcp:197520:3"/> proceedings of Colonell <hi>Sands</hi> in <hi>Kent,</hi> which said Colonell brought to <hi>London</hi> five Waine loads of Armes and Ammu<g ref="char:EOLhyphen"/>nition which he had taken in the Earle of <hi>Dorsets</hi> house at <hi>Sinock</hi> in the said County of Kent, with great store of plate and money that he also tooke at the said place, which was laid there with an in<g ref="char:EOLhyphen"/>tent (as it is supposed) to be used against the Parliament, the which Ammunition hath beene a long time gathering toge<g ref="char:EOLhyphen"/>ther, it belonging to divers of the Gen<g ref="char:EOLhyphen"/>try of that County that are ill affected to the Parliament; which tydings being acquainted, the Houses with all speed Ordered that it should be laid in <hi>Guild-Hall.</hi>
+            </p>
+            <p>It was also certified to both Houses by Letters from that County, that divers Gentlemen being of the Malignant par<g ref="char:EOLhyphen"/>tie, had endeavoured to stirre up dissen<g ref="char:EOLhyphen"/>tion in that County, and strove by all possible meanes to draw the affection of
+<pb n="3" facs="tcp:197520:3"/> the people from the Parliament, being much discontented that the Parliament had seized on the Armes and Ammuni<g ref="char:EOLhyphen"/>tion that were found at the Earl of <hi>Dor<g ref="char:EOLhyphen"/>sets</hi> house at <hi>Synock,</hi> pretending that the County was much disabled thereby to defend it selfe against any forreigne ene<g ref="char:EOLhyphen"/>my, although the same Gentry at the great Assizes of that County, declared that there was no cause of feare that any forraigne enemy would assault them.</p>
+            <p>Whereupon after some time of De<g ref="char:EOLhyphen"/>bate the Houses ordered and resolved, that two Troops of Horse more should goe into that County, for the safety and security thereof, they having also seri<g ref="char:EOLhyphen"/>ously considered the Resolution of His Majesty for the setting up of his Stan<g ref="char:EOLhyphen"/>dard, after some time spent therein, it was referred to a Committee to consider of, and to make report to the House con<g ref="char:EOLhyphen"/>cerning the same; the said Committee was also appointed to draw up a Decla<g ref="char:EOLhyphen"/>ration
+<pb n="4" facs="tcp:197520:4"/> to be published to the Kingdome to declare to the Subjects the legall pro<g ref="char:EOLhyphen"/>ceedings of the Parliament, and the il<g ref="char:EOLhyphen"/>legallity of the said Proclaimation, and the violent prosecution of the Commis<g ref="char:EOLhyphen"/>sion of Array, which they all concluded in one voyce and resolved to doe, and having spent the greatest part of the day therein, but before their rising there was information brought to both Houses, That Colonell <hi>Hambden</hi> and Colonell <hi>Goodwin</hi> had taken the Earle of <hi>Berke<g ref="char:EOLhyphen"/>shire</hi> and Sir <hi>Robert Dorman,</hi> and one more that was a Gentleman of quality at <hi>Wallington</hi> in the County of <hi>Oxford,</hi> which were come thither with an intent to seize upon the Magazine of that part of the County, it being laid in the said said Towne, and that they were also re<g ref="char:EOLhyphen"/>solved to execute the Commission of Array, and had sent out Warrants to <hi>Redding</hi> and divers other places for the same purpose, but before they could
+<pb n="5" facs="tcp:197520:4"/> bring their designes to perfection their passage was stopped; for t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Colonels having intelligence of their in<g ref="char:EOLhyphen"/>tentions, raised a number of men, and marched towards the said persons, where comming to them, they began to stand in opposition against them, but all was in vaine, for Colonell <hi>Goodwin</hi> and Co<g ref="char:EOLhyphen"/>lonell <hi>Hambden</hi> strove, obtained the Vi<g ref="char:EOLhyphen"/>ctory, and immediately tooke them pri<g ref="char:EOLhyphen"/>soners and sent them up to the Honou<g ref="char:EOLhyphen"/>rable Court of Parliament, who after some examination they were sent priso<g ref="char:EOLhyphen"/>ners to the Tower; And again the Earle of <hi>Berkshire</hi> was appointed to attend the House the next day, which he did accor<g ref="char:EOLhyphen"/>dingly, but was again sent to the Tower. The Earle of <hi>Holland</hi> is also gone into <hi>Berkshire</hi> for the safety and security of the said County.</p>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:197520:5"/>
+            <p>Information was this day given to the House by a Gentleman that came from <hi>Portsmouth,</hi> that there is great possibility in taking the Towne within a short time, and that on Tuesday last at night a Boat was discerned going out of the Towne; whereupon two long Boates lanched forth to meet it, when they came to it, they de<g ref="char:EOLhyphen"/>manded what they had in the said Boat, and it was answered, that there was nothing in it but some goods of House-hold stuffe and old lumber which was a poore mans in the Towne, that had leave given him to goe out of the Towne, but the Souldiers being not so answered, did search the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at, and found a brave Cavaleere lying very close betweene two Feather Beds, which they censured to be the Lord <hi>Wen.</hi> and he was carried neere to those parts to be examined, and to take f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rther order concerning him.</p>
+            <closer/>
+            <postscript>
+               <p>Ordered to be forthwith Printed and pub<g ref="char:EOLhyphen"/>lished.</p>
+               <closer>
+                  <signed>Hen. Elsynge, Cler. Par. D. C.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
